@@ -1,0 +1,16 @@
+@import "@fontsource-variable/jost";
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --font-sans: "Jost Variable", sans-serif;
+  --color-primary: #034ea2;
+  --color-primary-foreground: #231f20;
+  --color-input: #dddddd;
+  --color-input-placeholder: #66676b;
+  --color-secondary: #f3f6f9;
+
+  --color-pending: #d0d0d0;
+  --color-in-progress: #ffb03c;
+  --color-completed: #368a04;
+}
